@@ -22,5 +22,6 @@ public class Main {
         r3.performeMoveCommand();
 
 //affiche: Go Robot shows a normal Behaviour: if find another robot ignore it
+
     }
 }
