@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d511c263-29ce-4238-9c04-76dbb788a230" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aeroport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Aeroport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Avion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DPEX1/out/production/DPEX1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DPEX1/out/production/DPEX1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DPEX1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DPEX1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aeroport/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aeroport/Models/Aeroport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Aeroport/Models/Avion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/FacebookNotification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/src/Client/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/src/FbObserver/FBNotificationCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/src/FbObserver/FacebookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/src/FbObserver/SmartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacebookNotification/src/FbObserver/WebBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
