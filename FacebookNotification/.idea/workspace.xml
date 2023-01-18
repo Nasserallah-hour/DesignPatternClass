@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479539c9-ba8b-432d-a70b-8e949ef9a218" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aeroport/out/production/Aeroport/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aeroport/out/production/Aeroport/Models/Aeroport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aeroport/out/production/Aeroport/Models/Avion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FacebookNotification.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FbObserver/FBNotificationCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FbObserver/FacebookView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FbObserver/SmartphoneApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FbObserver/WebBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aeroport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aeroport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,16 +90,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Client/Test.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
